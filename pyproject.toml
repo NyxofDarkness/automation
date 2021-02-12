@@ -6,6 +6,7 @@ authors = ["NyxofDarkness <ibelieve.as@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+regex = "^2020.11.13"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

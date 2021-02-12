@@ -154,7 +154,7 @@ testing = ["argcomplete", "hypothesis (>=3.56)", "mock", "nose", "requests", "xm
 name = "regex"
 version = "2020.11.13"
 description = "Alternative regular expression module, to replace re."
-category = "dev"
+category = "main"
 optional = false
 python-versions = "*"
 
@@ -193,7 +193,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "a3cb18db29ab8af84779030431ca7b5e9750b406e0611d6e52533149660fdcbf"
+content-hash = "c99392fb4a6c0511d2e98fdbcda35c06e021747dd2a7face820ffa9365fddb4d"
 
 [metadata.files]
 appdirs = [
